@@ -14,3 +14,17 @@ Carregando Css-
 Carregando Images-
 Carregando Dados-
 Analise Persanlizada de modulos JSON</li></ul>
+<h2>Comandos Utilizados:</h2>
+<ol><li>mkdir learn-webpack01</li>
+<li>cd learn-webpack01</li>
+<li>npm init -y</li>
+<li>npm install webpack webpack-cli --save-dev</li>
+
+<li>npm install --save lodash</li>
+
+ <li>npx webpack</li>
+
+ <li>npx webpack --config webpack.config.js</li>
+
+ <li>npm run build</li>
+  </ol>
